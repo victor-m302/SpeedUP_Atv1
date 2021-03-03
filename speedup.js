@@ -1,3 +1,11 @@
+let algo1 = [ 0.00292664368947347,
+     0.0029042183028327095,
+     0.13184345701888756,
+     0.03019810946105439,
+     1.1165665948494667,
+     0.03881555982465345,
+     8497.06417921921
+    ]
 let algo2 = [0.0069733142852783205,
     0.00393916924794515,
     0.005597957558102078,
@@ -13,15 +21,16 @@ let algo2 = [0.0069733142852783205,
     0.010979431623893837,
    0.4425477571153582]
    
+
+   let speedup1 = [];
+   let speedup2 = [];   
    
-   let processador = 1 //single core 
-   let tempoInicial;
-   let tempoFinal;
-   let speedup = [];
-   
-   for (let index = 0; index < algo3.length; index++) {
-        tempoInicial = algo2[index] + algo3[index]
-        tempoFinal = algo2[index] / processador + algo3[index] / processador
-        speedup.push(tempoInicial / tempoFinal)
+   for (let i = 0; i < algo3.length; i++) {
+        speedup1.push(algo1[i] / algo2[i])
+        speedup2.push(algo1[i] / algo3[i])
    }
-   console.log("speedup: "+ speedup)
+
+   //console.log("speedup2: "+ speedup2)]
+   for (let i = 0; i < algo3.length; i++) {
+     console.log(speedup2[i])
+}

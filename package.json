@@ -1,15 +1,23 @@
 {
   "name": "atv1",
   "version": "1.0.0",
-  "description": "",
+  "description": "Tarefa atv1 Sistemas Distribuídos",
   "main": "Untitled-1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "victorm302",
   "license": "ISC",
   "dependencies": {
     "perf_hooks": "0.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victor-m302/SpeedUP_Atv1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/victor-m302/SpeedUP_Atv1/issues"
+  },
+  "homepage": "https://github.com/victor-m302/SpeedUP_Atv1#readme"
 }
