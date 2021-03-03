@@ -3,15 +3,20 @@ Tarefa atv1 Sistemas Distribuídos
 
 
 <h3>INICIALIZAÇÃO: </h3>
-```
-if (isAwesome){
-  return true
-}
-```
 
 <code>
-ewokjgf44g();
+npm init
 </code>
+
+<h4>Caso não funcionar:</h4>
+
+<code>
+npm init -y
+</code>
+<code>
+npm install perf_hooks
+</code>
+
 <h3>ALGORITMO 1 OUTPUT:  algoritmo1.js </h3>
 <img src="https://github.com/victor-m302/SpeedUP_Atv1/blob/main/assets/1.PNG?raw=true"/>
 
