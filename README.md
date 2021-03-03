@@ -3,13 +3,15 @@ Tarefa atv1 Sistemas Distribuídos
 
 
 <h3>INICIALIZAÇÃO: </h3>
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
+```
+if (isAwesome){
+  return true
 }
 ```
+
+<code>
+ewokjgf44g();
+</code>
 <h3>ALGORITMO 1 OUTPUT:  algoritmo1.js </h3>
 <img src="https://github.com/victor-m302/SpeedUP_Atv1/blob/main/assets/1.PNG?raw=true"/>
 
