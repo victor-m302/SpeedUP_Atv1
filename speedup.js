@@ -30,7 +30,11 @@ let algo2 = [0.0069733142852783205,
         speedup2.push(algo1[i] / algo3[i])
    }
 
-   //console.log("speedup2: "+ speedup2)]
-   for (let i = 0; i < algo3.length; i++) {
+console.log("speedup = algo1/algo2");
+for (let i = 0; i < algo3.length; i++) {
+     console.log(speedup1[i])
+}
+console.log("speedup = algo1/algo3");
+for (let i = 0; i < algo3.length; i++) {
      console.log(speedup2[i])
 }
