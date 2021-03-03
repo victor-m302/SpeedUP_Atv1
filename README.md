@@ -3,7 +3,7 @@ Tarefa atv1 Sistemas Distribuídos
 
 
 <h3>INICIALIZAÇÃO: </h3>
-
+<h4>obs.: Necessário o Node.JS para rodar</h4 >
 <code>
 npm init
 </code>
@@ -12,7 +12,7 @@ npm init
 
 <code>
 npm init -y
-</code>
+</code> <br>
 <code>
 npm install perf_hooks
 </code>
