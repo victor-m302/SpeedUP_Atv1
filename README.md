@@ -28,5 +28,5 @@ npm install perf_hooks
 <h3>ALGORITMO 1 OUTPUT:  algoritmo3.js </h3>
 <img src="https://github.com/victor-m302/SpeedUP_Atv1/blob/main/assets/algo3.PNG?raw=true"/>
 <h3>ALGORITMO SPEEDUP OUTPUT: speedup.js </h3>
-<img src="https://github.com/victor-m302/SpeedUP_Atv1/blob/main/assets/speedup.PNG?raw=true"/>
+<img src="https://github.com/victor-m302/SpeedUP_Atv1/blob/main/assets/speedup2.PNG?raw=true"/>
 
